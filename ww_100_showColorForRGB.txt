@@ -5,4 +5,4 @@ The title of the second window shows the Input-Integers and the pygame-colorname
 (A little Dictioary is used with RGB as key and colorname as value.)
 
 For the founded nearest colorname the corresponding color is presented as background of a Frame in the Input-Window.
-The Input Window is made with tkinter and grid, but the Frame is addes without grid-using.
+The Input Window is made with tkinter and grid, but the Frame is added without grid-using.
