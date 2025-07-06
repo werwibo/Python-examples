@@ -1,0 +1,8 @@
+The Pythoncode asks for 3 Integers as R G B Input.
+Input is checked. If wrong or not complet: Message Box with error-message.
+If Input is ok, then a second window is opened, showing the color, resulting from RGB-Input.
+The title of the second window shows the Input-Integers and the pygame-colorname neaarest to RGB.
+(A little Dictioary is used wit key RGB and value colorname.)
+
+For the founded nearest colorname the corresponding color is presented as background of a Frame in the Input-Window.
+The Input Window is made with tkinter and grid, but the Frame is addes without grid-using.
