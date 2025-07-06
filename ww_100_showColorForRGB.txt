@@ -6,3 +6,4 @@ The title of the second window shows the Input-Integers and the pygame-colorname
 
 For the founded nearest colorname the corresponding color is presented as background of a Frame in the Input-Window.
 The Input Window is made with tkinter and grid, but the Frame is added without grid-using.
+As header-icon of the input-window rgb-ww.ico is set.
