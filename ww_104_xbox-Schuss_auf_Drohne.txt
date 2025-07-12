@@ -1,17 +1,17 @@
 xbox must be connected via usb to your computer.
 
-with round left joystick you can move the green rectangle (gun) to left or right.
+With round left joystick you can move the green rectangle (gun) to left or right.
 When you press button a (blue cross), then a shoot in top-direction starts.
 
 
 From the top, red squares are falling.
-If the bullet has collision with a red rectangle, than hits are increase.
-Each shooting invreses the shoots.
+If the bullet has collision with a red square, than hits are increased.
+Each shooting increases the shoots.
 
-You hav 30 seconds to play
+You hav 30 seconds to play.
 
 The rest seconds are presented.
 
-Sore in the end is the better, teh more hits and the less missing shoots.
+Score in the end is the better, the more hits and the less missing shoots.
 
 If e.g. you have 10 hits with 20 shoots, score = 10 * (10 / 20) = 5
