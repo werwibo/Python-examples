@@ -1,0 +1,48 @@
+
+in text0 you can find how to use the python app (sorry, German)
+
+the ww_101....wav-file is required for the case, that a sudoku has no solution
+
+"First enter the numbers of the Sudoku to be solved!\n"\
+"(Click on the desired field with the mouse!))\n"\
+"\n"\
+"(If this takes too long, press the d key!\n"\
+"A sample Sudoku will then appear [defaultgrid].)\n"\
+"\n"\
+"Press the s key to save the Sudoku problem!\n"\
+"\n"\
+"From now on, you can enter your (allowed) numbers.\n"\
+"\n"\
+"If they prove unsuitable for the solution, then press the n key!\n"\
+"Then you will be shown the problem again\n"\
+"(without your attempted numbers).\n"\
+"\n"\
+"If you can't find a solution yourself,\n"\
+"then press n first and then Enter!\n"\
+"The program will then search for a solution and display it.\n"\
+"\n" \
+"If you press the r key (reset), you will get an empty Sudoku square."
+
+
+
+
+
+"Gib erst die Zahlen des zu lösenden Sudokus ein!\n"\
+        "(Mit Maus das gewünschte Feld ancklicken!)\n"\
+        "\n"\
+        "(wenn dir das zu lange dauert, drücke Taste d !\n"\
+        " Dann erscheint ein Beispiel-Sudoku [defaultgrid].)\n"\
+        "\n"\
+        "Drücke Taste s, um die Sudoku-Aufgabe zu speichern!\n"\
+        "\n"\
+        "Ab jetzt kannst du deine (erlaubten) Zahlen eingeben.\n"\
+        "\n" \
+        "Wenn sie sich als ungeeignet für die Lösung erweisen, dann drücke Taste n !\n"\
+        "Daraufhin wird dir wieder die Aufgabe gezeigt\n"\
+        "(ohne deine Versuchszahlen).\n"\
+        "\n" \
+        "Wenn du selbst keine Lösung findest,\n"\
+        "dann drücke erst n und dann Enter!\n"\
+        "Das Programm wird daraufhin eine Lösung suchen und sie anzeigen.\n"\
+        "\n" \
+        "Wenn du die Taste r drückst (reset), dann erhältst du ein leeres Sudoku-Feld"
